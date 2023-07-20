@@ -1,4 +1,4 @@
-package com.fe;
+package com.ef;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
